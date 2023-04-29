@@ -2,16 +2,7 @@
 
 This is a simple news aggregator app that retrieves news articles from various sources and saves them in a database. The app is built with PHP and Laravel.
 
-backend/
-    readme.md
-    docker-compose.yml
-    Dockerfile
-    app/
-    ...
-frontend/
-    readme.md
-    Dockerfile
-    ...
 
 Please refer to the [frontend readme](../frontend/readme.md) for more information.
+
 Please refer to the [backend readme](../backend/readme.md) for more information.
