@@ -4,4 +4,5 @@ This is a simple news aggregator app that retrieves news articles from various s
 
 
 Backend: Please refer to readme.md in backend folder
+
 Frontend: Please refer to readme.md in frontend folder
