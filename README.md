@@ -13,8 +13,5 @@ frontend/
     Dockerfile
     ...
 
-
 Please refer to the [frontend readme](../frontend/readme.md) for more information.
 Please refer to the [backend readme](../backend/readme.md) for more information.
-
-
